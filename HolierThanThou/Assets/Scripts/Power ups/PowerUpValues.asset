@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd673f91fccf19f4e85816f12f546c57, type: 3}
+  m_Name: PowerUpValues
+  m_EditorClassIdentifier: 
+  BZ_hasDuration: 0
+  BZ_duration: 1
+  BZ_radius: 25
+  BZ_power: 20
+  BZ_upwardForce: 5
+  BZ_playerPower: 50
+  BZ_playerUpwardForce: 0.5
+  CO_hasDuration: 1
+  CO_duration: 2
+  CO_radius: 10
+  GF_hasDuration: 1
+  GF_radius: 0
+  GF_duration: 5
+  GF_aiSpeedMultiplier: 1.25
+  GF_playerSpeedMultiplier: 1.25
+  CTT_hasDuration: 1
+  CTT_radius: 0
+  CTT_duration: 5
+  SS_hasDuration: 1
+  SS_radius: 0
+  SS_duration: 8
+  BS_hasDuration: 1
+  BS_radius: 10
+  BS_duration: 4
+  BS_material: {fileID: 2100000, guid: ba21123b55935bc4e9b1fd09b12f1387, type: 2}
+  SB_hasDuration: 1
+  SB_radius: 0
+  SB_duration: 10
+  SB_bounceMultiplier: 80
+  CD_hasDuration: 1
+  CD_duration: 4
+  CD_radius: 25
+  CD_aiSpeedMultiplier: 0.25
+  CD_playerSpeedMultiplier: 0.25
+  DM_hasDuration: 0
+  DM_duration: 1
+  DM_radius: 25
+  DM_power: 20
+  DM_upwardForce: 5
+  DM_playerPower: 50
+  DM_playerUpwardForce: 0.5
+  DM_positionOffSet: 1
+  DM_disMine: {fileID: 6145423799432401000, guid: 3d12591043f7e634d93f25719f15835e,
+    type: 3}
